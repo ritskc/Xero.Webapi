@@ -1,4 +1,4 @@
-namespace Xero.Webapi
+namespace Xero.WebAapi
 {
     public class WeatherForecast
     {
